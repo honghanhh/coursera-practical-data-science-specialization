@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+course1/week3/.DS_Store
+.DS_Store

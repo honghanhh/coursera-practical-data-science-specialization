@@ -5,15 +5,15 @@ Access all courses in the Coursera [Practical Data Science Specialization](https
 This repo contains the **SOLUTIONS** of exercises/labs to achieve the badge.
 
 
-## Courses and related quizzes, assignments
+## Course keynotes and solutions of related quizzes, assignments
 
 Practical Data Science Specialization on Coursera contains three courses:
 
 ### 1. [Course 1: Analyze Datasets and Train ML Models using AutoML](https://www.coursera.org/learn/automl-datasets-ml-models?specialization=practical-data-science)
 
-#### Week 1: Explore the Use Case and Analyze the Dataset
+#### Week 1:
 
-- Keynotes:
+- [x] Keynotes:
 
 > 1. **Artificial Intelligence (AI)** mimics human behavior.
 
@@ -23,33 +23,56 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 > 4. **AWS SageMaker**
 
-- Practice Quiz:
-    - [x] [Week 1](./course1/Week1_Practice_Quiz.pdf)
+- [x] Practice Quiz:  [Week 1](./course1/week1/Week1_Practice_Quiz.pdf).
 
-- Graded External Tool:
-    - [x] [Register and visualize dataset](./course1/C1_W1_Assignment.ipynb)
+- [x] Graded External Tool: [Register and visualize dataset](./course1/week1/C1_W1_Assignment.ipynb).
 
-#### Week 2: Data Bias and Feature Importance
+#### Week 2: 
 
-- Keynotes:
+- [x] Keynotes:
 
-> 1. **Statistical Bias**
+> 1. **Statistical Bias**: Training data does not comprehensively represent the underlying problem space.
 
-> 2. **Feature Importance**
+> 2. **Statistical Bias Causes**: Activity Bias, Societal Bias, Selection Bias, Data Drift/Shift, ...
 
-- Practice Quiz:
-    - [x] [Week 2](./course1/Week2_Practice_Quiz.pdf)
+> 3. **Class Imbalance (CI)** measures the imbalance in the number of members between different facet values.
 
-- Graded External Tool:
-    - [x] [Detect data bias with Amazon SageMaker Clarify](./course1/C1_W1_Assignment.ipynb)
+> 4. **Detecting Statistical Bias** by AWS SageMaker DataWrangler and AWS SageMaker Clarify.
+
+> 5. **Feature Importance** explains the features that make up the training data using a score. How useful or valuable the feature is relative to other features?
+
+> 5. **SHAP (SHapley Additive exPlanations)**
+
+- [x] Practice Quiz: [Week 2](./course1/week2/Week2_Practice_Quiz.pdf).
+
+- [x] Graded External Tool: [Detect data bias with Amazon SageMaker Clarify](./course1/week2/C1_W2_Assignment.ipynb).
 
 #### Week 3: Use Automated Machine Learning to train a Text Classifier
 
-- Graded Quiz:
+- [x] Keynotes:
+
+> 1. **Data Prepreration** includes Ingesting & Analyzing, Prepraring & Transforming, Training & Tuning, and Deploying & Managing. 
+
+> 2. **AutoML** aims at automating the process of building a model.
+
+> 3. **Model Hosting**.
+
+
+- [x] Practice Quiz: [Week 3](./course1/week3/Week3_Practice_Quiz.pdf).
+
+- [x] Graded External Tool: [Train a model with Amazon SageMaker Autopilot](./course1/week3/C1_W3_Assignment.ipynb).
 
 #### Week 4: Built-in algorithms
 
-- Graded Quiz:
+- [x] Keynotes
+
+> 1. **Built-in Alogrithms** in AWS SageMaker supports Classification, Regression, and Clustering problems.
+
+> 2. **Text Analysis Evolution**: Word2Vec (CBOW & Skip-gram), GloVe,  FastText, Transformer, BlazingText, ELMo, GPT, BERT, ...
+
+- [x] Practice Quiz: [Week 4](./course1/week4/Week4_Practice_Quiz.pdf).
+
+- [x] Graded External Tool: [Train a text classifier using Amazon SageMaker BlazingText built-in algorithm](./course1/week4/C1_W4_Assignment.ipynb).
 
 ---
 
@@ -57,16 +80,33 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 #### Week 1 
 
-- Graded Quiz:
+- [x] Keynotes
+
+> 1. **Feature Engineering** involves converting raw data from one or more sources into meaningful features that can be used for training machine learning models.
+
+> 2. **Feature Engineering Step** includes feature selection, creation, and transformation.
+
+> 3. **BERT** is Transformer-based pretrained language models that sucessfully capture bidirectional contexts in word representation.
+
+- [x] Practice Quiz: [Week 1](./course2/week1/Week1_Practice_Quiz.pdf).
+
+- [x] Graded External Tool: []().
 
 #### Week 2
 
-- Graded Quiz:
+- [x] Keynotes
+
+- [x] Practice Quiz: (./course2/week2/Week2_Practice_Quiz.pdf).
+
+- [x] Graded External Tool: []().
 
 #### Week 3
 
-- Graded Quiz:
+- [x] Keynotes
 
+- [x] Practice Quiz: (./course2/week3/Week3_Practice_Quiz.pdf).
+
+- [x] Graded External Tool: []().
 
 ---
 
@@ -74,16 +114,29 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 #### Week 1 
 
-- Graded Quiz:
+- [x] Keynotes
+
+- [x] Practice Quiz: []().
+
+- [x] Graded External Tool: []().
+
 
 #### Week 2
 
-- Graded Quiz:
+- [x] Keynotes
+
+- [x] Practice Quiz: []().
+
+- [x] Graded External Tool: []().
+
 
 #### Week 3
 
-- Graded Quiz:
+- [x] Keynotes
 
+- [x] Practice Quiz: []().
+
+- [x] Graded External Tool: []().
 
 ---
 	
