@@ -13,7 +13,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 #### Week 1:
 
-- [x] Keynotes:
+<!-- - [x] Keynotes:
 
 > 1. **Artificial Intelligence (AI)** mimics human behavior.
 
@@ -21,7 +21,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 > 3. **Deep learning (DL)** is a subset of machine learning that uses artificial neural networks to learn from data.
 
-> 4. **AWS SageMaker**
+> 4. **AWS SageMaker** -->
 
 - [x] Practice Quiz:  [Week 1](./course1/week1/Week1_Practice_Quiz.pdf).
 
@@ -29,7 +29,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 #### Week 2: 
 
-- [x] Keynotes:
+<!-- - [x] Keynotes:
 
 > 1. **Statistical Bias**: Training data does not comprehensively represent the underlying problem space.
 
@@ -41,34 +41,33 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 > 5. **Feature Importance** explains the features that make up the training data using a score. How useful or valuable the feature is relative to other features?
 
-> 5. **SHAP (SHapley Additive exPlanations)**
+> 5. **SHAP (SHapley Additive exPlanations)** -->
 
 - [x] Practice Quiz: [Week 2](./course1/week2/Week2_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: [Detect data bias with Amazon SageMaker Clarify](./course1/week2/C1_W2_Assignment.ipynb).
 
-#### Week 3: Use Automated Machine Learning to train a Text Classifier
+#### Week 3: 
 
-- [x] Keynotes:
+<!-- - [x] Keynotes:
 
 > 1. **Data Prepreration** includes Ingesting & Analyzing, Prepraring & Transforming, Training & Tuning, and Deploying & Managing. 
 
 > 2. **AutoML** aims at automating the process of building a model.
 
-> 3. **Model Hosting**.
-
+> 3. **Model Hosting**. -->
 
 - [x] Practice Quiz: [Week 3](./course1/week3/Week3_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: [Train a model with Amazon SageMaker Autopilot](./course1/week3/C1_W3_Assignment.ipynb).
 
-#### Week 4: Built-in algorithms
+#### Week 4:
 
-- [x] Keynotes
+<!-- - [x] Keynotes
 
 > 1. **Built-in Alogrithms** in AWS SageMaker supports Classification, Regression, and Clustering problems.
 
-> 2. **Text Analysis Evolution**: Word2Vec (CBOW & Skip-gram), GloVe,  FastText, Transformer, BlazingText, ELMo, GPT, BERT, ...
+> 2. **Text Analysis Evolution**: Word2Vec (CBOW & Skip-gram), GloVe,  FastText, Transformer, BlazingText, ELMo, GPT, BERT, ... -->
 
 - [x] Practice Quiz: [Week 4](./course1/week4/Week4_Practice_Quiz.pdf).
 
@@ -80,7 +79,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 #### Week 1 
 
-- [x] Keynotes
+<!-- - [x] Keynotes
 
 > 1. **Feature Engineering** involves converting raw data from one or more sources into meaningful features that can be used for training machine learning models.
 
@@ -88,7 +87,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 > 3. **BERT** is Transformer-based pretrained language models that sucessfully capture bidirectional contexts in word representation.
 
-> 4. **Feature Store**: centralized, reusable, discoverable.
+> 4. **Feature Store**: centralized, reusable, discoverable. -->
 
 - [x] Practice Quiz: [Week 1](./course2/week1/Week1_Practice_Quiz.pdf).
 
@@ -96,19 +95,19 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 #### Week 2
 
-- [x] Keynotes
+<!-- - [x] Keynotes
 
-> Learn how to train a customized **Pretrained BERT** and its variant models, debug, and profile with AWS SageMaker.
+> Learn how to train a customized **Pretrained BERT** and its variant models, debug, and profile with AWS SageMaker. -->
 
 - [x] Practice Quiz: [Week 2](./course2/week2/Week2_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: []().
 
 #### Week 3
-
+<!-- 
 - [x] Keynotes
 
-> 1. **MLOps** builds on DevOps practices that encompass people, process, and technology. MLOps also includes considerations and practices that are really unique to machine learning workloads.
+> 1. **MLOps** builds on DevOps practices that encompass people, process, and technology. MLOps also includes considerations and practices that are really unique to machine learning workloads. -->
 
 - [x] Practice Quiz: [Week 3](./course2/week3/Week3_Practice_Quiz.pdf).
 
@@ -120,7 +119,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 #### Week 1 
 
-- [x] Keynotes
+<!-- - [x] Keynotes -->
 
 - [x] Practice Quiz:  [Week 1](./course3/week1/Week1_Practice_Quiz.pdf).
 
@@ -129,7 +128,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 #### Week 2
 
-- [x] Keynotes
+<!-- - [x] Keynotes -->
 
 - [x] Practice Quiz: [Week 2](./course3/week2/Week2_Practice_Quiz.pdf).
 
@@ -138,7 +137,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 #### Week 3
 
-- [x] Keynotes
+<!-- - [x] Keynotes -->
 
 - [x] Practice Quiz:  [Week 3](./course3/week3/Week3_Practice_Quiz.pdf).
 
