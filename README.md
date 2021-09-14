@@ -1,4 +1,4 @@
-# Practical Data Science Specialization
+# Solutions on Practical Data Science Specialization
 
 Access all courses in the Coursera [Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science) Specialization offered by `deeplearning.ai`.
 
@@ -88,6 +88,8 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 > 3. **BERT** is Transformer-based pretrained language models that sucessfully capture bidirectional contexts in word representation.
 
+> 4. **Feature Store**: centralized, reusable, discoverable.
+
 - [x] Practice Quiz: [Week 1](./course2/week1/Week1_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: []().
@@ -96,7 +98,9 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 - [x] Keynotes
 
-- [x] Practice Quiz: (./course2/week2/Week2_Practice_Quiz.pdf).
+> Learn how to train a customized **Pretrained BERT** and its variant models, debug, and profile with AWS SageMaker.
+
+- [x] Practice Quiz: [Week 2](./course2/week2/Week2_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: []().
 
@@ -104,7 +108,9 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 - [x] Keynotes
 
-- [x] Practice Quiz: (./course2/week3/Week3_Practice_Quiz.pdf).
+> 1. **MLOps** builds on DevOps practices that encompass people, process, and technology. MLOps also includes considerations and practices that are really unique to machine learning workloads.
+
+- [x] Practice Quiz: [Week 3](./course2/week3/Week3_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: []().
 
@@ -116,7 +122,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 - [x] Keynotes
 
-- [x] Practice Quiz: []().
+- [x] Practice Quiz:  [Week 1](./course3/week1/Week1_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: []().
 
@@ -125,7 +131,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 - [x] Keynotes
 
-- [x] Practice Quiz: []().
+- [x] Practice Quiz: [Week 2](./course3/week2/Week2_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: []().
 
@@ -134,7 +140,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 - [x] Keynotes
 
-- [x] Practice Quiz: []().
+- [x] Practice Quiz:  [Week 3](./course3/week3/Week3_Practice_Quiz.pdf).
 
 - [x] Graded External Tool: []().
 
