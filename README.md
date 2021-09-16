@@ -4,6 +4,7 @@ Access all courses in the Coursera [Practical Data Science Specialization](https
 
 This repo contains the **SOLUTIONS** of exercises/labs to achieve the badge.
 
+![](certificate.png)
 
 ## Course keynotes and solutions of related quizzes, assignments
 
@@ -129,7 +130,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 - [x] Practice Quiz:  [Week 1](./course3/week1/Week1_Practice_Quiz.pdf).
 
-- [x] Graded External Tool: []().
+- [x] Graded External Tool: [Optimize models using Automatic Model Tuning](./course3/week1/C3_W1_Assignment.ipynb).
 
 
 #### Week 2
@@ -138,7 +139,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 - [x] Practice Quiz: [Week 2](./course3/week2/Week2_Practice_Quiz.pdf).
 
-- [x] Graded External Tool: []().
+- [x] Graded External Tool: [A/B testing, traffic shifting and autoscaling](./course3/week2/C3_W2_Assignment.ipynb).
 
 
 #### Week 3
@@ -147,7 +148,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 - [x] Practice Quiz:  [Week 3](./course3/week3/Week3_Practice_Quiz.pdf).
 
-- [x] Graded External Tool: []().
+- [x] Graded External Tool: [Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)](./course3/week3/C3_W3_Assignment.ipynb).
 
 ---
 	
