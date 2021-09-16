@@ -91,7 +91,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 - [x] Practice Quiz: [Week 1](./course2/week1/Week1_Practice_Quiz.pdf).
 
-- [x] Graded External Tool: []().
+- [x] Graded External Tool: [Feature transformation with Amazon SageMaker processing job and Feature Store](./course2/week1/C2_W1_Assignment.ipynb).
 
 #### Week 2
 
@@ -101,7 +101,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 - [x] Practice Quiz: [Week 2](./course2/week2/Week2_Practice_Quiz.pdf).
 
-- [x] Graded External Tool: []().
+- [x] Graded External Tool: [Train a review classifier with BERT and Amazon SageMaker](./course2/week2/C2_W2_Assignment.ipynb).
 
 #### Week 3
 <!-- 
@@ -111,7 +111,7 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 - [x] Practice Quiz: [Week 3](./course2/week3/Week3_Practice_Quiz.pdf).
 
-- [x] Graded External Tool: []().
+- [x] Graded External Tool: [SageMaker pipelines to train a BERT-Based text classifier](./course2/week3/C2_W3_Assignment.ipynb).
 
 ---
 
@@ -119,7 +119,13 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 #### Week 1 
 
-<!-- - [x] Keynotes -->
+<!-- - [x] Keynotes
+
+> 1. **Model Tuning** aims to fit the model to the underlying data patterns in your training data and learn the best possible parameters for your model.
+
+> 2. **Automatic Model Tuning** includes grid search, random search, bayesian optimization, hyperband.
+
+> 3. **Challenges**: checkpointing, distribution training strategy. -->
 
 - [x] Practice Quiz:  [Week 1](./course3/week1/Week1_Practice_Quiz.pdf).
 
